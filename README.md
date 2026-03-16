@@ -5,12 +5,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Building+Real+World+Projects" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Abhibharti0&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 ---
 
 # 💫 About Me
 
 🎓 **BSc in Information Technology Student (2023 – 2026)**
-🏫 CIMAGE Group of Institutions
 
 💻 **MERN Stack Developer** focused on building scalable web applications
 
@@ -89,7 +92,3 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Abhibharti0&theme=radical&no-frame=true&margin-w=10"/>
 </p>
-
-
-
-
